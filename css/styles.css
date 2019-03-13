@@ -8,3 +8,15 @@ h2 {
 p {
   font-family: sans-serif;
 }
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+p.author {
+  width: 75%;
+  font-style: italic;
+}
+.important {
+  color: red;
+  font-style: oblique;
+}
